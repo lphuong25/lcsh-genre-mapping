@@ -1,0 +1,89 @@
+Genre 0:
+['online', 'audiences', 'england', 'experimental', 'journalism journalism', 'theater society', 'society', 'theater theater', 'journalism', 'theater']
+
+Genre 1:
+['pictures african', 'arts performing', 'americans pictures', 'medieval', 'african americans', 'performing arts', 'performing', 'arts', 'americans', 'african']
+
+Genre 2:
+['government', 'women journalists', 'freedom', 'language', 'press politics', 'newspapers', 'politics', 'journalism', 'journalists', 'press']
+
+Genre 3:
+['genres', 'chinese', 'playwriting', 'television personalities', 'personalities', 'stage', 'mental', 'popular culture', 'popular', 'culture']
+
+Genre 4:
+['battles', 'black', 'artistic', 'wars', 'creative', 'imaginary', 'wit humor', 'wit', 'writing', 'humor']
+
+Genre 5:
+['tragedy', 'gay men', 'india', 'minorities', 'sexual', 'historical comics', 'men', 'comics', 'gay', 'historical']        
+
+Genre 6:
+['audiobooks', 'characters', 'manwoman relationships', 'relationships', 'manwoman', 'drama theater', 'theater drama', 'theater', 'drama drama', 'drama']
+
+Genre 7:
+['feminism pictures', 'science science', 'feminism', 'industry pictures', 'pictures industry', 'adaptations', 'women', 'science', 'industry', 'pictures']
+
+Genre 8:
+['romanticism', 'comedians', 'action adventure', 'action', 'cartoonists', 'adventure', 'young adult', 'adult', 'comedy', 'young']
+
+Genre 9:
+['journalism mass', 'nineteen', 'murder', 'video', 'street', 'terrorism', 'hispanic', 'mass media', 'mass', 'media']      
+
+Genre 10:
+['pictures sex', 'pictures women', 'race', 'women pictures', 'violence', 'sex role', 'women', 'role', 'sex', 'pictures']  
+
+Genre 11:
+['pictures producers', 'theatrical', 'directors pictures', 'women producers', 'poetics', 'poetry poetry', 'producers directors', 'producers', 'directors', 'poetry']
+
+Genre 12:
+['viewers', 'television politics', 'politics', 'television television', 'broadcasting television', 'broadcasting news', 'news', 'television broadcasting', 'broadcasting', 'television']
+
+Genre 13:
+['satire', 'countries', 'social', 'town life', 'town', 'city town', 'political', 'city', 'electronic', 'life']
+
+Genre 14:
+['school', 'persons', 'biography', 'biographical', 'autobiographies', 'reading', 'biographies', 'actors actresses', 'actresses', 'actors']
+
+Genre 15:
+['feminist literary', 'movement', 'aesthetics', 'love', 'feminist', 'psychoanalysis', 'feminism', 'literary', 'documentary', 'european']
+
+Genre 16:
+['mothers', 'homosexuality', 'teenage girls', 'teenage', 'social', 'girls', 'france', 'french', 'theaters', 'psychology'] 
+
+Genre 17:
+['stories', 'relations', 'people', 'literary', 'gothic', 'friendship', 'detective mystery', 'detective', 'mystery', 'horror']
+
+Genre 18:
+['translations', 'technology', 'literary', 'form', 'batman', 'postmodernism', 'interpreting', 'translating interpreting', 'translating', 'acting']
+
+Genre 19:
+['fantasy', 'strips graphic', 'comics graphic', 'comics', 'strips', 'comic strips', 'comic', 'graphic novels', 'novels', 'graphic']
+
+Genre 20:
+['theory', 'body', 'theater', 'women', 'women theater', 'human', 'fantasy', 'narration rhetoric', 'narration', 'rhetoric']
+
+Genre 21:
+['horror', 'comic strips', 'strips', 'comic', 'science', 'graphic novels', 'novels', 'comics graphic', 'graphic', 'comics']
+
+Genre 22:
+['broadcasting radio', 'programs television', 'radio broadcasting', 'television program', 'broadcasting', 'program', 'radio', 'television programs', 'programs', 'television']
+
+Genre 23:
+['reality', 'company', 'children', 'great britain', 'britain', 'great', 'periodicals', 'women women', 'childrens', 'women']
+
+Genre 24:
+['strip', 'comic strip', 'strips superheroes', 'cartoonists', 'superheroes', 'heroes', 'strips comic', 'strips', 'comic strips', 'comic']
+
+Genre 25:
+['pictures holocaust', 'memory', 'jews', 'philosophy', 'jewish pictures', 'plays', 'jewish holocaust', 'holocaust jewish', 'holocaust', 'jewish']
+
+Genre 26:
+['short story', 'story', 'romances', 'war war', 'european', 'comparative', 'short stories', 'short', 'stories', 'war']    
+
+Genre 27:
+['audiences', 'national characteristics', 'characteristics', 'historical', 'cinematography', 'homosexuality', 'homosexuality pictures', 'national', 'pictures pictures', 'pictures']
+
+Genre 28:
+['entertainers', 'gender', 'superhero comics', 'women', 'good', 'good evil', 'identity', 'evil', 'superhero', 'superheroes']
+
+Genre 29:
+['sound', 'business', 'civilization', 'europe', 'quotations', 'superman', 'death', 'music', 'modernism', 'art']

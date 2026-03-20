@@ -1,0 +1,59 @@
+Genre 0:
+['homosexuality', 'film', 'homosexuality pictures', 'role', 'sex role', 'pictures history', 'history', 'sex', 'pictures pictures', 'pictures']
+
+Genre 1:
+['government', 'violence', 'plays', 'journalism journalism', 'press politics', 'poetry poetry', 'politics', 'press', 'journalism', 'poetry']
+
+Genre 2:
+['high', 'girls', 'school', 'manga', 'teenage', 'race', 'supernatural', 'popular culture', 'popular', 'culture']
+
+Genre 3:
+['literary', 'psychic', 'adventure', 'adult fiction', 'graphic', 'young', 'young adult', 'fiction', 'adult', 'comics']
+
+Genre 4:
+['writing', 'war war', 'film criticism', 'film adaptations', 'adaptations', 'criticism', 'drama drama', 'film', 'war', 'drama']
+
+Genre 5:
+['wit humor', 'psychology', 'childrens', 'criticism', 'humor', 'fiction fiction', 'medieval', 'science fiction', 'science', 'fiction']
+
+Genre 6:
+['superheroes', 'women', 'good evil', 'good', 'evil', 'graphic novels', 'novels', 'comics graphic', 'graphic', 'comics']
+
+Genre 7:
+['industry pictures', 'pictures industry', 'modernism', 'pictures', 'art', 'actors actresses', 'acting', 'actresses', 'industry', 'actors']       
+
+Genre 8:
+['comparative', 'body', 'human', 'fictitious characters', 'translating', 'interpreting', 'translating interpreting', 'superheroes', 'fictitious', 'characters']
+
+Genre 9:
+['narration rhetoric', 'narration', 'women women', 'rhetoric', 'feminism', 'performing arts', 'performing', 'journalists', 'arts', 'women']       
+
+Genre 10:
+['oral', 'literary form', 'autobiography', 'form', 'gay men', 'men', 'literary', 'postmodernism', 'homosexuality', 'gay']
+
+Genre 11:
+['identity', 'online journalism', 'gender', 'online', 'theater society', 'journalism', 'mass media', 'mass', 'society', 'media']
+
+Genre 12:
+['entertainers', 'radio broadcasting', 'stories short', 'broadcasting', 'comedy', 'horror', 'short stories', 'radio', 'short', 'stories']
+
+Genre 13:
+['national', 'national characteristics', 'language', 'characters', 'characters characteristics', 'theaters', 'characteristics', 'producers', 'producers directors', 'directors']
+
+Genre 14:
+['children', 'pictures holocaust', 'periodicals', 'jews', 'newspapers', 'jewish pictures', 'jewish holocaust', 'holocaust jewish', 'holocaust', 'jewish']
+
+Genre 15:
+['experimental theater', 'criticism', 'history', 'psychology', 'drama theater', 'experimental', 'theater drama', 'theater theater', 'drama', 'theater']
+
+Genre 16:
+['program', 'literary criticism', 'broadcasting television', 'literary', 'broadcasting news', 'news', 'television broadcasting', 'broadcasting', 'criticism', 'television']
+
+Genre 17:
+['novels fantasy', 'magic', 'fantasy comic', 'history', 'criticism', 'fantasy', 'strips comic', 'strips', 'comic strips', 'comic']
+
+Genre 18:
+['fiction', 'documentary documentary', 'americans pictures', 'gothic', 'programs television', 'documentary', 'television programs', 'programs', 'television', 'americans']
+
+Genre 19:
+['strips graphic', 'fiction', 'comics graphic', 'comic strips', 'strips', 'comic', 'graphic novels', 'novels', 'comics', 'graphic']

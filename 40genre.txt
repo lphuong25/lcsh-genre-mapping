@@ -1,0 +1,119 @@
+Genre 0:
+['animators', 'hypertext', 'animation', 'writing', 'readerresponse', 'vaudeville', 'creative', 'entertainers', 'authors', 'authorship']     
+
+Genre 1:
+['dysfunctional', 'spirits', 'superhero', 'graphic', 'supernatural', 'murder', 'wonder', 'woman', 'comics', 'families']
+
+Genre 2:
+['jacques', 'deconstruction', 'religion', 'street', 'criminals', 'life', 'japan', 'psychoanalysis', 'detective', 'mystery']
+
+Genre 3:
+['korea', 'north', 'spanish', 'voice', 'fairy', 'social', 'animated', 'masculinity', 'men', 'tales']
+
+Genre 4:
+['commonwealth', 'musical', 'silent', 'experimental', 'history', 'historical', 'pictures', 'motion', 'documentary', 'films']
+
+Genre 5:
+['socialism', 'cinematography', 'audiences', 'electronic', 'national', 'history', 'industry', 'picture', 'pictures', 'motion']
+
+Genre 6:
+['performance', 'audiences', 'london', 'shakespeare', 'modern', 'william', 'poetics', 'french', 'england', 'poetry']
+
+Genre 7:
+['blacklisting', 'improvisation', 'paris', 'playwriting', 'method', 'movement', 'extraterrestrial', 'beings', 'france', 'acting']
+
+Genre 8:
+['publications', 'travel', 'aesthetics', 'underground', 'spain', 'literary', 'form', 'quotations', 'language', 'english']
+
+Genre 9:
+['trauma', 'lesbians', 'marvel', 'survivors', 'memory', 'group', 'reading', 'literature', 'holocaust', 'jewish']
+
+Genre 10:
+['melodrama', 'communism', 'games', 'cold', 'recordings', 'globalization', 'gays', 'screenwriters', 'video', 'homosexuality']
+
+Genre 11:
+['creation', 'analysis', 'modernism', 'literature', 'creative', 'gothic', 'writing', 'artistic', 'art', 'literary']
+
+Genre 12:
+['werner', 'british', 'rights', 'indians', 'womens', 'body', 'human', 'film', 'periodicals', 'adaptations']
+
+Genre 13:
+['self', 'italian', 'history', 'essays', 'philosophy', 'germany', 'latin', 'music', 'britain', 'great']
+
+Genre 14:
+['utopias', 'political', 'satire', 'american', 'europe', 'wit', 'humor', 'medieval', 'literature', 'european']
+
+Genre 15:
+['roland', 'academy', 'history', 'spy', 'theater', 'interpreting', 'translating', 'theaters', 'performing', 'arts']
+
+Genre 16:
+['racism', 'relations', 'story', 'government', 'hispanic', 'race', 'politics', 'popular', 'culture', 'press']
+
+Genre 17:
+['teachers', 'college', 'california', 'hollywood', 'angeles', 'los', 'psychology', 'literature', 'calif', 'fiction']
+
+Genre 18:
+['ny', 'characters', 'superhero', 'fantasy', 'fictitious', 'york', 'new', 'superheroes', 'fiction', 'science']
+
+Genre 19:
+['arthurian', 'canon', 'people', 'epic', 'technology', 'romances', 'love', 'children', 'childrens', 'literature']
+
+Genre 20:
+['sexual', 'public', 'asian', 'teenage', 'mothers', 'monsters', 'people', 'gender', 'girls', 'identity']
+
+Genre 21:
+['history', 'actors', 'foreign', 'editors', 'autobiographies', 'biography', 'cartoonists', 'biographies', 'united', 'states']
+
+Genre 22:
+['ethics', 'digital', 'hitchcock', 'alfred', 'online', 'actresses', 'mass', 'actors', 'media', 'journalism']
+
+Genre 23:
+['comparative', 'characteristics', 'philosophy', 'postmodernism', 'art', 'modernism', 'society', 'criticism', 'modern', 'literature']       
+
+Genre 24:
+['jeanluc', 'welles', 'orson', 'picture', 'actors', 'plays', 'newspapers', 'americans', 'african', 'american']
+
+Genre 25:
+['heroes', 'texas', 'artists', 'authors', 'soap', 'operas', 'black', 'feminism', 'journalists', 'women']
+
+Genre 26:
+['shows', 'frank', 'company', 'history', 'walt', 'disney', 'feminist', 'literary', 'interpretation', 'criticism']
+
+Genre 27:
+['magic', 'superheroes', 'fantasy', 'works', 'comics', 'novels', 'graphic', 'strips', 'comic', 'books']
+
+Genre 28:
+['erotic', 'union', 'soviet', 'witches', 'comics', 'action', 'men', 'adventure', 'gay', 'horror']
+
+Genre 29:
+['league', 'marx', 'genres', 'justice', 'monologues', 'western', 'john', 'america', 'noir', 'film']
+
+Genre 30:
+['cats', 'deleuze', 'gilles', 'area', 'schulz', 'male', 'impersonators', 'female', 'charles', 'caribbean']
+
+Genre 31:
+['troops', 'comedians', 'battles', 'good', 'evil', 'wars', 'imaginary', 'comedy', 'narration', 'rhetoric']
+
+Genre 32:
+['eisenstein', 'west', 'sergei', 'sandman', 'michael', 'legendary', 'dreams', 'character', 'persons', 'death']
+
+Genre 33:
+['series', 'personalities', 'reality', 'politics', 'viewers', 'program', 'news', 'programs', 'broadcasting', 'television']
+
+Genre 34:
+['himalaya', 'gautama', 'nepal', 'india', 'audiobooks', 'tragedy', 'american', 'english', 'theater', 'drama']
+
+Genre 35:
+['historical', 'relationships', 'manwoman', 'adult', 'young', 'fiction', 'works', 'novels', 'graphic', 'comics']
+
+Genre 36:
+['motion', 'state', 'theatrical', 'history', 'experimental', 'society', 'picture', 'producers', 'directors', 'theater']
+
+Genre 37:
+['family', 'violence', 'little', 'magazines', 'english', 'european', 'role', 'sex', 'short', 'stories']
+
+Genre 38:
+['law', 'prisoners', 'freedom', 'blacks', 'press', 'publishers', 'censorship', 'proverbs', 'newspaper', 'publishing']
+
+Genre 39:
+['architecture', 'antisemitism', 'propaganda', 'yiddish', 'history', 'german', 'jews', 'radio', 'world', 'war']
