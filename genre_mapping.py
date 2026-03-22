@@ -84,7 +84,7 @@ def map_topics_to_genre(genre_id):
 
         15: "Comedy & Humor",
 
-        16: "Film & Theater",
+        16: "Film, Theater & Stage",
 
         17: "Holocaust & Jewish Studies",
 

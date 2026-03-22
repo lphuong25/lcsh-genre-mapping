@@ -73,7 +73,10 @@ def boost_genre_words(text):
 # load and clean data
 def load_and_clean(file_path):
     # load data
-    df = pd.read_csv(file_path)
+    df = pd.read_excel(file_path, dtype = {'MMS Id': str})
+
+    # Ensure MMS Id doesn't have trailing .0 if it was accidentally read as float
+    df['MMS Id'] = df['MMS Id'].astype(str).str.split('.').str[0]
 
     # split subject headings
     df['subjects'] = df["Subjects"].str.split(";")
@@ -93,6 +96,7 @@ def load_and_clean(file_path):
     
     # combine subjects by books
     book_subjects = df.groupby('MMS Id', sort = False)['subject_clean'].apply(lambda x: ' '.join(x)).reset_index()
+    book_subjects['MMS Id'] = book_subjects['MMS Id'].astype(str)
     book_subjects['subject_clean'] = book_subjects['subject_clean'].apply(remove_duplicates)
     book_subjects['subject_clean'] = book_subjects['subject_clean'].apply(boost_genre_words)
 
